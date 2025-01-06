@@ -6,19 +6,6 @@ Here’s a sample `README.md` file for your **Digital-Image-Processing** reposit
 
 A collection of practical implementations and code examples for performing various digital image processing techniques. This repository is designed to help understand and apply image processing concepts effectively.
 
----
-
-## 📂 Repository Structure
-
-```
-Digital-Image-Processing/
-├── pratical/                 # Source code for practical implementations
-│   ├── [Script 1].py         # Example script for a specific image processing technique
-│   ├── [Script 2].py         # Another example
-│   └── ...                   # Additional scripts
-├── compressed_naruto.jpg     # Compressed image example
-├── gaussian_naruto.jpg       # Image processed with a Gaussian filter
-└── README.md                 # This file
 ```
 
 ---
